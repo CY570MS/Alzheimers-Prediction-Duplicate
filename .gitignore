@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Large databases
+*.db
+*.sqlite
+
+# Phase 3 cache
+phase3/cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
