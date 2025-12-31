@@ -1,4 +1,3 @@
-# phase2_extract_chembl_mechanism_curated.py
 # Uses your local ChEMBL SQLite:
 # - Download page: https://chembl.gitbook.io/chembl-interface-documentation/downloads  (ChEMBL 36)  :contentReference[oaicite:7]{index=7}
 

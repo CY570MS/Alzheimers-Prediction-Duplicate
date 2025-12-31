@@ -6,3 +6,4 @@ lxml
 scikit-learn
 qc-B3DB
 joblib
+sqlite3
